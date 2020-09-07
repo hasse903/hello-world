@@ -1,2 +1,3 @@
 # hello-world
-teste 1.1
+Testando as funcionalidades 
+teste 1.2
